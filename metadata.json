@@ -1,0 +1,6 @@
+{
+  "name": "Soát Hóa Đơn Điện",
+  "description": "Phần mềm đọc và trích xuất dữ liệu hóa đơn tiền điện từ hình ảnh hoặc PDF, hiển thị trực quan chỉ số công tơ, bậc thang giá điện và đối soát thành tiền.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
